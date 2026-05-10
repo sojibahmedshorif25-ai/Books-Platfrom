@@ -24,3 +24,4 @@ export const auth = betterAuth({
     client,
   }),
 });
+mongodbAdapter(db, {
