@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "description": "Atomic Habits explains how small daily habits can create remarkable results over time. It focuses on improving systems instead of goals, making gradual progress, and building long-lasting positive routines that help individuals grow consistently in both personal and professional life.",
+        "category": "Self-Development",
+        "available_quantity": 8,
+        "rating": 4.9,
+        "image_url": "https://covers.openlibrary.org/b/id/11153285-L.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "description": "Clean Code teaches developers how to write readable, maintainable, and efficient code. It covers best practices, coding standards, and design principles that help programmers create scalable software systems while avoiding common mistakes in real-world development environments.",
+        "category": "Tech",
+        "available_quantity": 10,
+        "rating": 4.8,
+        "image_url": "https://covers.openlibrary.org/b/id/9611996-L.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "description": "The Alchemist tells the inspiring story of Santiago, a shepherd who dreams of discovering treasure. His journey becomes a metaphor for pursuing personal legends, understanding life’s deeper meaning, and believing in the power of dreams and determination.",
+        "category": "Story",
+        "available_quantity": 6,
+        "rating": 4.7,
+        "image_url": "https://covers.openlibrary.org/b/id/8107896-L.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Brief History of Time",
+        "author": "Stephen Hawking",
+        "description": "This book explores fundamental questions about the universe, including black holes, time, and the origin of space. Stephen Hawking presents complex scientific concepts in a simplified way, making it accessible for readers curious about physics and cosmology.",
+        "category": "Science",
+        "available_quantity": 5,
+        "rating": 4.6,
+        "image_url": "https://covers.openlibrary.org/b/id/240726-L.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "description": "Sapiens examines the history of humankind from the Stone Age to modern civilization. It explores how culture, biology, and technology shaped society, offering deep insights into human behavior, evolution, and the forces that define our world today.",
+        "category": "History",
+        "available_quantity": 7,
+        "rating": 4.8,
+        "image_url": "https://covers.openlibrary.org/b/id/8370226-L.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "description": "Deep Work highlights the importance of focused, distraction-free work in achieving success. It teaches practical strategies to improve concentration, reduce interruptions, and produce high-quality results in a world dominated by constant digital distractions.",
+        "category": "Self-Development",
+        "available_quantity": 9,
+        "rating": 4.7,
+        "image_url": "https://covers.openlibrary.org/b/id/10594765-L.jpg"
+    },
+    {
+        "id": 7,
+        "title": "You Don’t Know JS",
+        "author": "Kyle Simpson",
+        "description": "This book series dives deep into JavaScript concepts, helping developers understand how the language truly works. It focuses on scope, closures, and asynchronous programming, making it essential for anyone aiming to master modern web development.",
+        "category": "Tech",
+        "available_quantity": 6,
+        "rating": 4.8,
+        "image_url": "https://covers.openlibrary.org/b/id/8221256-L.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Harry Potter and the Sorcerer’s Stone",
+        "author": "J.K. Rowling",
+        "description": "This magical story introduces Harry Potter, a young wizard discovering his true identity. Set in Hogwarts School of Witchcraft and Wizardry, it combines adventure, friendship, and mystery, captivating readers with its imaginative and enchanting world.",
+        "category": "Story",
+        "available_quantity": 10,
+        "rating": 4.9,
+        "image_url": "https://covers.openlibrary.org/b/id/7984916-L.jpg"
+    },
+    {
+        "id": 9,
+        "title": "The Selfish Gene",
+        "author": "Richard Dawkins",
+        "description": "The Selfish Gene explores evolution from the perspective of genes rather than individuals. It explains how natural selection operates at the genetic level and provides a fascinating understanding of biology and human behavior.",
+        "category": "Science",
+        "available_quantity": 5,
+        "rating": 4.5,
+        "image_url": "https://covers.openlibrary.org/b/id/8235116-L.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Guns, Germs, and Steel",
+        "author": "Jared Diamond",
+        "description": "This book analyzes the factors that shaped human history, focusing on geography, environment, and societal development. It explains why some civilizations advanced faster than others, offering a powerful perspective on global inequality and history.",
+        "category": "History",
+        "available_quantity": 6,
+        "rating": 4.6,
+        "image_url": "https://covers.openlibrary.org/b/id/8231996-L.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "description": "Think and Grow Rich emphasizes the power of mindset, persistence, and goal setting in achieving success. It shares lessons from successful individuals and teaches readers how to develop habits that lead to financial and personal growth.",
+        "category": "Self-Development",
+        "available_quantity": 8,
+        "rating": 4.7,
+        "image_url": "https://covers.openlibrary.org/b/id/8225631-L.jpg"
+    },
+    {
+        "id": 12,
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "description": "This book provides practical advice for software developers, focusing on problem-solving, coding practices, and career growth. It encourages developers to think critically and continuously improve their skills in a rapidly evolving tech industry.",
+        "category": "Tech",
+        "available_quantity": 7,
+        "rating": 4.8,
+        "image_url": "https://covers.openlibrary.org/b/id/8099251-L.jpg"
+    },
+    {
+        "id": 13,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "description": "The Hobbit follows Bilbo Baggins on an unexpected journey filled with adventure, danger, and discovery. It introduces readers to Middle-earth and showcases themes of bravery, friendship, and personal growth in a richly imagined fantasy world.",
+        "category": "Story",
+        "available_quantity": 9,
+        "rating": 4.8,
+        "image_url": "https://covers.openlibrary.org/b/id/6979861-L.jpg"
+    },
+    {
+        "id": 14,
+        "title": "A Brief History of Nearly Everything",
+        "author": "Bill Bryson",
+        "description": "This book explains scientific discoveries in a humorous and engaging way. It covers topics like physics, chemistry, and biology, making complex ideas accessible while highlighting the fascinating journey of scientific exploration.",
+        "category": "Science",
+        "available_quantity": 5,
+        "rating": 4.6,
+        "image_url": "https://covers.openlibrary.org/b/id/240727-L.jpg"
+    },
+    {
+        "id": 15,
+        "title": "The Silk Roads",
+        "author": "Peter Frankopan",
+        "description": "The Silk Roads offers a new perspective on world history by focusing on trade routes connecting East and West. It highlights cultural exchange, economic development, and political power throughout centuries of global interaction.",
+        "category": "History",
+        "available_quantity": 6,
+        "rating": 4.5,
+        "image_url": "https://covers.openlibrary.org/b/id/8234141-L.jpg"
+    },
+    {
+        "id": 16,
+        "title": "The Power of Now",
+        "author": "Eckhart Tolle",
+        "description": "The Power of Now teaches readers to live in the present moment and overcome stress caused by past regrets and future worries. It emphasizes mindfulness, inner peace, and spiritual awareness as keys to a fulfilling life.",
+        "category": "Self-Development",
+        "available_quantity": 7,
+        "rating": 4.7,
+        "image_url": "https://covers.openlibrary.org/b/id/8225265-L.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Design Patterns",
+        "author": "Erich Gamma",
+        "description": "Design Patterns introduces reusable solutions to common software design problems. It is widely regarded as a foundational book for developers, helping them write flexible and maintainable object-oriented programs.",
+        "category": "Tech",
+        "available_quantity": 6,
+        "rating": 4.8,
+        "image_url": "https://covers.openlibrary.org/b/id/8231999-L.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "description": "This classic novel explores themes of love, social class, and personal growth. It follows Elizabeth Bennet as she navigates relationships and societal expectations, making it one of the most beloved works in English literature.",
+        "category": "Story",
+        "available_quantity": 8,
+        "rating": 4.7,
+        "image_url": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
+    },
+    {
+        "id": 19,
+        "title": "The Origin of Species",
+        "author": "Charles Darwin",
+        "description": "Darwin’s groundbreaking work explains the theory of evolution through natural selection. It transformed scientific understanding of life on Earth and remains one of the most influential books in biological science.",
+        "category": "Science",
+        "available_quantity": 4,
+        "rating": 4.6,
+        "image_url": "https://covers.openlibrary.org/b/id/8235120-L.jpg"
+    },
+    {
+        "id": 20,
+        "title": "1776",
+        "author": "David McCullough",
+        "description": "This historical account details the events of the American Revolution in 1776. It provides a vivid narrative of leadership, struggle, and determination during a critical moment that shaped modern history.",
+        "category": "History",
+        "available_quantity": 5,
+        "rating": 4.5,
+        "image_url": "https://covers.openlibrary.org/b/id/8234145-L.jpg"
+    },
+    {
+        "id": 21,
+        "title": "Zero to One",
+        "author": "Peter Thiel",
+        "description": "Zero to One explores how startups can build innovative products that create entirely new markets. It emphasizes thinking differently, avoiding competition, and focusing on unique ideas that bring long-term success in business and technology.",
+        "category": "Self-Development",
+        "available_quantity": 7,
+        "rating": 4.7,
+        "image_url": "https://covers.openlibrary.org/b/id/8231851-L.jpg"
+    },
+    {
+        "id": 22,
+        "title": "Refactoring",
+        "author": "Martin Fowler",
+        "description": "Refactoring teaches developers how to improve the structure of existing code without changing its behavior. It focuses on readability, maintainability, and reducing technical debt, making it essential for building scalable and clean software systems.",
+        "category": "Tech",
+        "available_quantity": 6,
+        "rating": 4.8,
+        "image_url": "https://covers.openlibrary.org/b/id/8231992-L.jpg"
+    },
+    {
+        "id": 23,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "description": "The Great Gatsby tells the story of wealth, love, and illusion in the roaring twenties. It explores themes of ambition, social class, and the American Dream through the mysterious life of Jay Gatsby and his pursuit of happiness.",
+        "category": "Story",
+        "available_quantity": 8,
+        "rating": 4.6,
+        "image_url": "https://covers.openlibrary.org/b/id/8225630-L.jpg"
+    },
+    {
+        "id": 24,
+        "title": "The Elegant Universe",
+        "author": "Brian Greene",
+        "description": "This book explains string theory and modern physics in an engaging and understandable way. It explores how the universe is structured and the fundamental laws that govern space, time, and matter at the deepest levels.",
+        "category": "Science",
+        "available_quantity": 5,
+        "rating": 4.5,
+        "image_url": "https://covers.openlibrary.org/b/id/240728-L.jpg"
+    },
+    {
+        "id": 25,
+        "title": "The Wright Brothers",
+        "author": "David McCullough",
+        "description": "This biography tells the inspiring story of the Wright brothers and their invention of the airplane. It highlights determination, innovation, and the challenges they faced while achieving one of the greatest breakthroughs in history.",
+        "category": "History",
+        "available_quantity": 6,
+        "rating": 4.6,
+        "image_url": "https://covers.openlibrary.org/b/id/8234146-L.jpg"
+    },
+    {
+        "id": 26,
+        "title": "Start with Why",
+        "author": "Simon Sinek",
+        "description": "Start with Why explains how successful leaders inspire action by focusing on purpose. It emphasizes the importance of understanding why you do something, rather than what or how, to create lasting impact and motivation.",
+        "category": "Self-Development",
+        "available_quantity": 9,
+        "rating": 4.7,
+        "image_url": "https://covers.openlibrary.org/b/id/8225632-L.jpg"
+    },
+    {
+        "id": 27,
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "description": "Often referred to as CLRS, this book provides a comprehensive introduction to algorithms. It covers sorting, searching, data structures, and optimization techniques, making it essential for students and professionals in computer science.",
+        "category": "Tech",
+        "available_quantity": 5,
+        "rating": 4.9,
+        "image_url": "https://covers.openlibrary.org/b/id/8231993-L.jpg"
+    },
+    {
+        "id": 28,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "description": "This novel addresses serious issues like racial injustice and moral growth through the eyes of a young girl. It highlights compassion, empathy, and courage in a deeply divided society.",
+        "category": "Story",
+        "available_quantity": 7,
+        "rating": 4.8,
+        "image_url": "https://covers.openlibrary.org/b/id/8228692-L.jpg"
+    },
+    {
+        "id": 29,
+        "title": "The Gene",
+        "author": "Siddhartha Mukherjee",
+        "description": "The Gene explores the history of genetics and its impact on humanity. It explains how genes shape identity and health, while also addressing ethical questions related to genetic engineering and scientific advancements.",
+        "category": "Science",
+        "available_quantity": 6,
+        "rating": 4.7,
+        "image_url": "https://covers.openlibrary.org/b/id/8235117-L.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Team of Rivals",
+        "author": "Doris Kearns Goodwin",
+        "description": "This book examines Abraham Lincoln’s leadership style during the Civil War. It highlights how he united rivals into a strong team and led the nation through one of its most challenging periods.",
+        "category": "History",
+        "available_quantity": 4,
+        "rating": 4.6,
+        "image_url": "https://covers.openlibrary.org/b/id/8234147-L.jpg"
+    },
+    {
+        "id": 31,
+        "title": "Mindset",
+        "author": "Carol S. Dweck",
+        "description": "Mindset explains how a person’s beliefs about their abilities affect success. It introduces the concept of growth mindset, encouraging continuous learning, resilience, and the ability to overcome challenges.",
+        "category": "Self-Development",
+        "available_quantity": 8,
+        "rating": 4.8,
+        "image_url": "https://covers.openlibrary.org/b/id/8225266-L.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Eloquent JavaScript",
+        "author": "Marijn Haverbeke",
+        "description": "Eloquent JavaScript provides a deep understanding of JavaScript programming. It covers both fundamentals and advanced topics, helping developers write efficient, elegant, and functional code.",
+        "category": "Tech",
+        "available_quantity": 9,
+        "rating": 4.7,
+        "image_url": "https://covers.openlibrary.org/b/id/8221257-L.jpg"
+    },
+    {
+        "id": 33,
+        "title": "1984",
+        "author": "George Orwell",
+        "description": "1984 presents a dystopian world where surveillance and control dominate society. It explores themes of freedom, truth, and individuality, making it one of the most influential novels in modern literature.",
+        "category": "Story",
+        "available_quantity": 6,
+        "rating": 4.9,
+        "image_url": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+    },
+    {
+        "id": 34,
+        "title": "Astrophysics for People in a Hurry",
+        "author": "Neil deGrasse Tyson",
+        "description": "This book simplifies complex astrophysics concepts for everyday readers. It explains the universe, stars, and galaxies in a concise and engaging way, making science accessible to everyone.",
+        "category": "Science",
+        "available_quantity": 7,
+        "rating": 4.6,
+        "image_url": "https://covers.openlibrary.org/b/id/8235118-L.jpg"
+    },
+    {
+        "id": 35,
+        "title": "The Crusades",
+        "author": "Thomas Asbridge",
+        "description": "This book provides a detailed account of the Crusades, exploring religious conflicts and political struggles that shaped medieval history. It offers insight into the motivations and consequences of these historic events.",
+        "category": "History",
+        "available_quantity": 5,
+        "rating": 4.5,
+        "image_url": "https://covers.openlibrary.org/b/id/8234148-L.jpg"
+    },
+    {
+        "id": 36,
+        "title": "The 7 Habits of Highly Effective People",
+        "author": "Stephen Covey",
+        "description": "This book outlines principles for personal and professional effectiveness. It emphasizes character development, proactive thinking, and building strong relationships to achieve long-term success.",
+        "category": "Self-Development",
+        "available_quantity": 9,
+        "rating": 4.8,
+        "image_url": "https://covers.openlibrary.org/b/id/8225267-L.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Operating System Concepts",
+        "author": "Abraham Silberschatz",
+        "description": "This book explains the core concepts of operating systems, including processes, memory management, and file systems. It is widely used in computer science education and provides a strong theoretical foundation.",
+        "category": "Tech",
+        "available_quantity": 6,
+        "rating": 4.7,
+        "image_url": "https://covers.openlibrary.org/b/id/8231994-L.jpg"
+    },
+    {
+        "id": 38,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "description": "This novel follows Holden Caulfield as he navigates adolescence and struggles with identity and belonging. It captures the emotional complexity of youth and has become a classic in modern literature.",
+        "category": "Story",
+        "available_quantity": 7,
+        "rating": 4.5,
+        "image_url": "https://covers.openlibrary.org/b/id/8225633-L.jpg"
+    },
+    {
+        "id": 39,
+        "title": "The Double Helix",
+        "author": "James D. Watson",
+        "description": "This book tells the story of the discovery of DNA’s structure. It provides a personal and scientific account of one of the most important breakthroughs in biology.",
+        "category": "Science",
+        "available_quantity": 5,
+        "rating": 4.6,
+        "image_url": "https://covers.openlibrary.org/b/id/8235119-L.jpg"
+    },
+    {
+        "id": 40,
+        "title": "The Rise and Fall of the Third Reich",
+        "author": "William L. Shirer",
+        "description": "This historical work documents the history of Nazi Germany, exploring its rise to power and eventual downfall. It provides detailed insights into political decisions and global consequences.",
+        "category": "History",
+        "available_quantity": 4,
+        "rating": 4.7,
+        "image_url": "https://covers.openlibrary.org/b/id/8234149-L.jpg"
+    }
+]
