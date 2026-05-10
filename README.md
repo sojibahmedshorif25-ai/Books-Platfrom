@@ -37,10 +37,10 @@ Open http://localhost:3000
 - tailwindcss
 - daisyui
 - react-hot-toast
-- swiper
+
 
 ## 🌐 Live Demo
 
-[Add your Vercel link here]
+
 
 
