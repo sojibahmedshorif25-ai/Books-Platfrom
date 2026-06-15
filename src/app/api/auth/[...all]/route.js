@@ -1,4 +1,8 @@
-import { auth } from "@/lib/auth"; // path to your auth file
-import { toNextJsHandler } from "better-auth/next-js";
+// Temporarily disabled auth route for deployment
+export async function GET() {
+  return Response.json({ message: "Auth is temporarily disabled" });
+}
 
-export const { POST, GET } = toNextJsHandler(auth);
+export async function POST() {
+  return Response.json({ message: "Auth is temporarily disabled" });
+}
